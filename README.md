@@ -16,6 +16,9 @@
 
 # Python Basics
 
+<table>
+<tr><td>
+
 <br> ![Print()](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
   
 *Code* : 
@@ -39,7 +42,8 @@ print("Hello World!")
 *Output* : ` ` 
 > - Python ignores comments when running the code, but they help people understand what the code is doing.
 
-
+</td></tr>
+</table>
 
 
 
