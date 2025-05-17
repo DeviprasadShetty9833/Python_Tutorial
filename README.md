@@ -39,6 +39,14 @@ print("Hello World!")
 *Output* : ` ` 
 > - Python ignores comments when running the code, but they help people understand what the code is doing.
 
+
+
+
+
+
+
+
+
 ![Indentation](https://img.shields.io/badge/_2._-Indentation-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 > - Indentation is used to define blocks of code.
