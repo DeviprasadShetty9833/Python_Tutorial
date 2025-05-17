@@ -16,7 +16,7 @@
 
 # Python Basics
 
- ![Print()](https://img.shields.io/badge/_1.-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
+ ![Print()](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
   
 *Code* : 
 ```html 
@@ -25,7 +25,7 @@ print("Hello World!")
 *Output* : `Hello World!`    
 > - Here, print() is a function that displays the msg 'Hello World' on the console.
 
-⏺️ **Comments**
+ ![Comments](https://img.shields.io/badge/_2._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 *Code* : 
 ```html
@@ -39,7 +39,7 @@ print("Hello World!")
 *Output* : ` ` 
 > - Python ignores comments when running the code, but they help people understand what the code is doing.
 
-⏺️ **Indentation**
+![Indentation](https://img.shields.io/badge/_2._-Indentation-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 > - Indentation is used to define blocks of code.
 > - All statements with the same level of indentation are considered part of the same block.
