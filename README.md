@@ -1,6 +1,6 @@
 # Python_Notes
 
-🔻 Print a string using print()
+⏺️ Print a string using print()
   
 **Code** : 
 ```html 
