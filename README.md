@@ -34,6 +34,7 @@ print("Hello World!")
 
 </details> 
 
+
 <br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
@@ -46,7 +47,8 @@ print("Hello World!")
 ```
 *Output* : `Hello World!`    
 > - Here, print() is a function that displays the msg 'Hello World' on the console.
-> - 
+
+</details> 
 
 
 <br> ![Comments](https://img.shields.io/badge/_2._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
