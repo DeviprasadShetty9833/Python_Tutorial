@@ -18,7 +18,7 @@
 
   ![Python](https://img.shields.io/badge/Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)  
 
-> ![status](https://img.shields.io/badge/Print%20a%20string%20using%20print()-Upcoming-yellow)
+> ![status](https://img.shields.io/badge/Print%20a%20string%20using%20print()-yellow)
 
 ⏺️ **Print a string using print()**
   
