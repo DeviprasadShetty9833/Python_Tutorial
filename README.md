@@ -13,6 +13,19 @@
 |---|---|---|
 <br> 
 
+<details>
+<summary>▶️ Click to Expand</summary>
+
+<br>
+
+**Your content goes here...**
+
+<br>
+
+<summary>🔽 Click to Collapse</summary>
+</details>
+
+
 
 # Python Basics
 
