@@ -1,6 +1,6 @@
 # Python_Notes
 
-Code:
+**Code** :
 ```html
     print("Hello World!")
 ```
