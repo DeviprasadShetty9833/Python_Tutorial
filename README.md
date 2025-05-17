@@ -14,10 +14,11 @@ print("Hello World!")
 *Code* : 
 ```html
 # This is a single-line comment.
-"""
-This is a multi-line comment."""
-'''
-This is a multi-line comment.'''
+
+""" This is a multi-line comment. """
+
+''' This is a multi-line comment. '''
+
 ```
 *Output* : ` ` 
 > 
