@@ -1,9 +1,9 @@
 # Python Basics
 
-⏺️ Print a string using print()
+⏺️ **Print a string using print()**
   
-**Code** : 
+*Code* : 
 ```html 
 print("Hello World!")
 ```
-**Output** : `Hello World!`    
+*Output* : `Hello World!`    
