@@ -60,3 +60,5 @@ if 10 > 5:
 
 print("I have no indentation.")
 ```
+> - The 1st print statement is indented by 4 spaces, so they belong to the if block.
+> - The 2nd print statement is not indented, so it is outside the if block.
