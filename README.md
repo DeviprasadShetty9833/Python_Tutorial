@@ -41,4 +41,7 @@ print("Hello World!")
 
 ⏺️ **Indentation**
 
+> - Indentation is used to define blocks of code.
+> - All statements with the same level of indentation are considered part of the same block.
+> - Indentation is achieved using whitespace (spaces or tabs) at the beginning of each line.
 
