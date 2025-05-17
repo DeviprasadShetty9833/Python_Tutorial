@@ -16,7 +16,7 @@
 
 # Python Basics
 
- ![Print()](https://img.shields.io/badge/1.-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
+ ![Print()](https://img.shields.io/badge/1.-Print%20a%20string%20using%20print()-34A853)   
   
 *Code* : 
 ```html 
