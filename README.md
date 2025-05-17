@@ -1,4 +1,4 @@
-# Python_Notes
+# Python Basics
 
 ⏺️ Print a string using print()
   
