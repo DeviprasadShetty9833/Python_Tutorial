@@ -32,8 +32,6 @@ print("Hello World!")
 *Output* : `Hello World!`    
 > - Here, print() is a function that displays the msg 'Hello World' on the console.
 
-  <summary>Click to collapse</summary>
-
 </details> 
 
 
@@ -53,8 +51,6 @@ print("Hello World!")
 ```
 *Output* : ` ` 
 > - Python ignores comments when running the code, but they help people understand what the code is doing.
-
-  <summary>Click to collapse</summary>
 
 </details> 
 
@@ -86,7 +82,5 @@ print("I have no indentation.")
 ```
 > - The 1st print statement is indented by 4 spaces, so they belong to the if block.
 > - The 2nd print statement is not indented, so it is outside the if block.
-
-  <summary>Click to collapse</summary>
 
 </details> 
