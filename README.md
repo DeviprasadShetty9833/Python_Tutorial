@@ -7,7 +7,7 @@
 print("Hello World!")
 ```
 *Output* : `Hello World!`    
-> Here, print() is a function that displays the msg 'Hello World' on the console.
+> - Here, print() is a function that displays the msg 'Hello World' on the console.
 
 ⏺️ **Comments**
 
@@ -21,7 +21,7 @@ print("Hello World!")
 
 ```
 *Output* : ` ` 
-> Python ignores comments when running the code, but they help people understand what the code is doing. <br>
-> Comments are helpful for explaining code.
+> - Python ignores comments when running the code, but they help people understand what the code is doing. <br>
+> - Comments are helpful for explaining code.
 
 
