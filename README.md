@@ -20,16 +20,26 @@
 <tr><td>
 
 <br> ![Print()](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
-  
-*Code* : 
+
+<details>
+  <summary>Click to expand</summary>
+
+  *Code* : 
 ```html 
 print("Hello World!")
+
 ```
 *Output* : `Hello World!`    
 > - Here, print() is a function that displays the msg 'Hello World' on the console.
 
+</details> 
+
+
 <br> ![Comments](https://img.shields.io/badge/_2._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
+<details>
+  <summary>Click to expand</summary>
+  
 *Code* : 
 ```html
 # This is a single-line comment.
@@ -41,6 +51,8 @@ print("Hello World!")
 ```
 *Output* : ` ` 
 > - Python ignores comments when running the code, but they help people understand what the code is doing.
+
+</details> 
 
 </td></tr>
 </table>
