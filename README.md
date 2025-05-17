@@ -7,4 +7,4 @@
 print("Hello World!")
 ```
 *Output* : `Hello World!`    
-> Here, print() is a function to print the msg 'Hello World'.
+> Here, print() is a function that displays the msg 'Hello World' on the console.
