@@ -56,7 +56,7 @@ print("Hello World!")
 *Code* : 
 ```html
 if 10 > 5:
-    print("I have indentation")
+    print("I have indentation.")
 
-print("I have no indentation")
+print("I have no indentation.")
 ```
