@@ -45,3 +45,10 @@ print("Hello World!")
 > - All statements with the same level of indentation are considered part of the same block.
 > - Indentation is achieved using whitespace (spaces or tabs) at the beginning of each line.
 
+*Code* : 
+```html
+if 10 > 5:
+    print("I have indentation")
+
+print("I have no indentation")
+```
