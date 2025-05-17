@@ -4,4 +4,4 @@ Code:
 ```html
     print("Hello World!")
 ```
-- **Output**: `Hello World!`    
+- **Output** : `Hello World!`    
