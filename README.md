@@ -22,10 +22,8 @@
 
 <br>
 
-<summary>🔽 [Click to Collapse](https://github.com/DeviprasadShetty9833/Python_Tutorial/blob/42c9db2f26bea6190dc177ad1d0485d97d818bc5/README.md?plain=1#L17)</summary>
+<summary>🔽 [Click to Collapse]</summary>
 </details>
-
-[Click to Collapse](https://github.com/DeviprasadShetty9833/Python_Tutorial/blob/42c9db2f26bea6190dc177ad1d0485d97d818bc5/README.md?plain=1#L17)
 
 
 
