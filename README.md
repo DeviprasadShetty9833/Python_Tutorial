@@ -2,5 +2,6 @@
 
 🔹 Print a string using print()
   
-**Code** : ```html print("Hello World!") ```
+**Code** : ```html 
+print("Hello World!") ```
 **Output** : `Hello World!`    
