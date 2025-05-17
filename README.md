@@ -16,7 +16,7 @@
 
 # Python Basics
 
-  ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)  
 
 > - ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
