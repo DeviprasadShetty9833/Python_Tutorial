@@ -15,10 +15,6 @@
 ```
 
 ```html
-<picture>
-  <source
     print("Hello World")
-  />
-</picture>
 ```
     
