@@ -53,7 +53,7 @@ Hello, Tanmay! Welcome!
 
 ```
 > - Here, input() is a function that asks the name from the user after displaying the msg 'Enter your name' on the console
-> - print() is a function that displays the msg 'Hello World' on the console.
+> - print() is a function that displays the msg 'Hello, Tanmay! Welcome!' with value of variable 'name' as 'Tanmay'on the console.
 
 </details> 
 
