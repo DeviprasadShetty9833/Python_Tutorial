@@ -52,8 +52,10 @@ Enter your name: Tanmay
 Hello, Tanmay! Welcome!
 
 ```
-> - Here, input() is a function that asks the name from the user after displaying the msg 'Enter your name' on the console
-> - print() is a function that displays the msg 'Hello, Tanmay! Welcome!' with value of variable 'name' as 'Tanmay'on the console.
+
+> Here, input() prompts the user with "Enter your name:" and stores the input 'Tanmay'.
+
+> - print() displays "Hello, Tanmay! Welcome!" using the value of name.
 
 </details> 
 
