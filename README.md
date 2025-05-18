@@ -42,11 +42,18 @@ print("Hello World!")
 
   *Code* : 
 ```html 
-print("Hello World!")
+name = input("Enter your name: ")
+print("Hello, ", name, "! Welcome!")
 
 ```
-*Output* : `Hello World!`    
-> - Here, print() is a function that displays the msg 'Hello World' on the console.
+*Output* : 
+```html
+Enter your name: Tanmay
+Hello, Tanmay! Welcome!
+
+```
+> - Here, input() is a function that asks the name from the user after displaying the msg 'Enter your name' on the console
+> - print() is a function that displays the msg 'Hello World' on the console.
 
 </details> 
 
