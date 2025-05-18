@@ -30,7 +30,7 @@ print("Hello World!")
 
 ```
 *Output* : `Hello World!`    
-> - Here, print() is a function that displays the msg 'Hello World' on the console.
+> - Here, print() is a function that displays the string 'Hello World' on the console.
 
 </details> 
 
