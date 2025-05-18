@@ -22,7 +22,7 @@
 <br> ![Print()](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
   *Code* : 
 ```html 
@@ -38,7 +38,7 @@ print("Hello World!")
 <br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
   *Code* : 
 ```html 
@@ -62,7 +62,7 @@ Hello, Tanmay! Welcome!
 <br> ![Comments](https://img.shields.io/badge/_2._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
   
 *Code* : 
 ```html
@@ -95,7 +95,7 @@ Hello, Tanmay! Welcome!
 <br> <br> 
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand 🔻</summary>
 
 *Code* : 
 ```html
