@@ -53,8 +53,7 @@ Hello, Tanmay! Welcome!
 
 ```
 
-> Here, input() prompts the user with "Enter your name:" and stores the input 'Tanmay'.
-
+> - Here, input() prompts the user with "Enter your name:" and stores the input 'Tanmay'.
 > - print() displays "Hello, Tanmay! Welcome!" using the value of name.
 
 </details> 
