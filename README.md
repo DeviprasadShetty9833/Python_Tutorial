@@ -64,7 +64,6 @@ Hello, Tanmay! Welcome!
 
 </details> 
 
-[![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources) 
 
 
 <br> ![Comments](https://img.shields.io/badge/_2._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
@@ -120,3 +119,5 @@ print("I have no indentation.")
 > - The 2nd print statement is not indented, so it is outside the if block.
 
 </details> 
+
+[![Resources](https://img.shields.io/badge/📚_Back_to-Resources-A52A2A?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources) 
