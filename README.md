@@ -21,7 +21,7 @@
 ---
 
 
-# Python Basics
+# Python_Basics
 
 <table>
 <tr><td>
