@@ -59,6 +59,9 @@ Tanmay
 
 ```
 
+> - Here, name stores the value 'Tanmay'.
+> - print() displays Tanmay using the value of name.
+
   *Code:*
 ```html 
 name = "Dev"
@@ -69,13 +72,13 @@ print(name, age)
 
   *Output:*
 ```html
-Dev
-18
-Mumbai
+Dev 18
 
 ```
 
-</details> 
+> - Here, print() displays name & age as 'Dev' & '18' together.
+
+</details>
 
 
 <br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
