@@ -122,7 +122,6 @@ Hello, Dhanesh! Welcome!
 > - print() displays "Hello, Dhanesh! Welcome!" using the value of name.
 
  
- taking three inputs at a time
   *Code:*
 ```html 
 x, y, z = input("Enter name, age, city: ").split()
