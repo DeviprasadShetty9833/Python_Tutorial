@@ -118,7 +118,7 @@ Hello, Dhanesh! Welcome!
 
 ```
 
-> - Here, input() prompts the user with "Enter your name:" and stores the input 'Dhanesh'.
+> - Here, input() prompts the user with "Enter your name:" and stores the input 'Dhanesh' of datatype string.
 > - print() displays "Hello, Dhanesh! Welcome!" using the value of name.
 
  
@@ -142,6 +142,23 @@ City : Mumbai
 
 > - Here, 3 inputs are taken at a time.
 > - Age is taken as a string.
+
+
+<br> ![Typecasting](https://img.shields.io/badge/_3._-Typecasting-34A853?style=for-the-badge&logo=python&logoColor=white)   
+
+  *Code:*
+```html 
+n = int(input("No. of Students: "))
+print(n)
+
+```
+
+  *Output:*
+```html 
+No. of Students: 10
+10
+
+> - Here, the variable n is converted to datatype int
 
 
 </details> 
