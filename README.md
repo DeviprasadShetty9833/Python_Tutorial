@@ -233,7 +233,11 @@ print("I have no indentation.")
 </td></tr>
 </table>
 
+# Data Types
+
 # Oops Concept 
+
+<br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
