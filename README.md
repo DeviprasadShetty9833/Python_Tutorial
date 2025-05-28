@@ -78,6 +78,24 @@ Dev 18
 
 > - Here, print() displays name & age as 'Dev' & '18' together.
 
+  *Code:*
+```html 
+name, age = "Dev", 18
+print(name)
+print(age)
+
+```
+
+  *Output:*
+```html
+Dev
+18
+
+```
+
+> - Here, print() displays name & age as 'Dev' & '18' together.
+> - 
+
 </details>
 
 
