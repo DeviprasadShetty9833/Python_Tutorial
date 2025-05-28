@@ -125,7 +125,7 @@ Hello, Dhanesh! Welcome!
 
 
 
-<br> ![Comments](https://img.shields.io/badge/_2._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![Comments](https://img.shields.io/badge/_3._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand 🔻</summary>
@@ -148,16 +148,7 @@ Hello, Dhanesh! Welcome!
 
 </details> 
 
-</td></tr>
-</table>
-
-
-
-
-
-
-
-<br> ![Indentation](https://img.shields.io/badge/_2._-Indentation-34A853?style=for-the-badge&logo=python&logoColor=white)
+<br> ![Indentation](https://img.shields.io/badge/_4._-Indentation-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 <br> ▶️ Indentation is used to define blocks of code.
 <br> ▶️ All statements with the same level of indentation are considered part of the same block.
@@ -178,6 +169,9 @@ print("I have no indentation.")
 > - The 2nd print statement is not indented, so it is outside the if block.
 
 </details> 
+
+</td></tr>
+</table>
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
