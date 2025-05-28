@@ -48,8 +48,8 @@ Hello World!
 
   *Code:*
 ```html 
-s = "Tanmay"
-print(s)
+name = "Tanmay"
+print(name)
 
 ```
 
@@ -61,10 +61,9 @@ Tanmay
 
   *Code:*
 ```html 
-s = "Dev"
+name = "Dev"
 age = 18
-city = "Mumbai"
-print(s, age, city)
+print(name, age)
 
 ```
 
