@@ -162,7 +162,23 @@ print(n)
 No. of Students: 10
 10
 
-> - Here, the variable n is converted to datatype int
+> - Here, the variable n is converted to datatype int.
+
+```
+
+  *Code:*
+```html 
+m = float(input("Average Marks of Students: "))
+print(m)
+
+```
+
+  *Output:*
+```html 
+No. of Students: 75.5
+75.5
+
+> - Here, the variable m is converted to datatype float.
 
 ```
 
