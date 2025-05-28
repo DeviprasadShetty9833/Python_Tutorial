@@ -143,9 +143,13 @@ City : Mumbai
 > - Here, 3 inputs are taken at a time.
 > - Age is taken as a string.
 
+</details> 
 
 <br> ![Typecasting](https://img.shields.io/badge/_3._-Typecasting-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
+<details>
+  <summary>Click to expand 🔻</summary>
+  
   *Code:*
 ```html 
 n = int(input("No. of Students: "))
@@ -160,9 +164,9 @@ No. of Students: 10
 
 > - Here, the variable n is converted to datatype int
 
+```
 
 </details> 
-
 
 
 <br> ![Comments](https://img.shields.io/badge/_3._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
