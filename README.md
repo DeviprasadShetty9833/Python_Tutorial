@@ -45,15 +45,36 @@ Hello World!
 
 > - Here, print() is a function that displays the string 'Hello World' on the console.
 
-# Single variable
+
+  *Code:*
+```html 
 s = "Tanmay"
 print(s)
 
-# Multiple Variables
-s = "Alice"
-age = 25
-city = "New York"
+```
+
+  *Output:*
+```html
+Tanmay
+
+```
+
+  *Code:*
+```html 
+s = "Dev"
+age = 18
+city = "Mumbai"
 print(s, age, city)
+
+```
+
+  *Output:*
+```html
+Dev
+18
+Mumbai
+
+```
 
 </details> 
 
