@@ -99,7 +99,7 @@ Dev
 </details>
 
 
-<br> ![Print()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![Input()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand 🔻</summary>
