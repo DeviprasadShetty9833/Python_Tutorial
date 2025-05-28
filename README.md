@@ -65,14 +65,14 @@ Tanmay
   *Code:*
 ```html 
 name = "Dev"
-age = 18
+age = 19
 print(name, age)
 
 ```
 
   *Output:*
 ```html
-Dev 18
+Dev 19
 
 ```
 
@@ -80,7 +80,7 @@ Dev 18
 
   *Code:*
 ```html 
-name, age = "Dev", 18
+name, age = "Dev", 19
 print(name)
 print(age)
 
@@ -89,11 +89,11 @@ print(age)
   *Output:*
 ```html
 Dev
-18
+19
 
 ```
 
-> - Here, name and age is stored as 'Dev' & '18' together.
+> - Here, name and age is stored as 'Dev' & '18' at a time.
 > - 2nd print() automatically inserts '\n' and  displays age as '18' on the next line.
 
 
@@ -120,6 +120,29 @@ Hello, Dhanesh! Welcome!
 
 > - Here, input() prompts the user with "Enter your name:" and stores the input 'Dhanesh'.
 > - print() displays "Hello, Dhanesh! Welcome!" using the value of name.
+
+ 
+ taking three inputs at a time
+  *Code:*
+```html 
+x, y, z = input("Enter name, age, city: ").split()
+print("Name : ", x)
+print("Age : ", y)
+print("City : ", z)
+
+```
+
+  *Output:*
+```html 
+Enter name, age, city: Dev, 19, Mumbai
+Name : Dev
+Age : 19
+City : Mumbai
+
+```
+
+> - Here, 3 inputs are taken at a time.
+
 
 </details> 
 
