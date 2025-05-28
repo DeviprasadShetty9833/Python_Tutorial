@@ -45,6 +45,16 @@ Hello World!
 
 > - Here, print() is a function that displays the string 'Hello World' on the console.
 
+# Single variable
+s = "Tanmay"
+print(s)
+
+# Multiple Variables
+s = "Alice"
+age = 25
+city = "New York"
+print(s, age, city)
+
 </details> 
 
 
@@ -61,13 +71,13 @@ print("Hello, ", name, "! Welcome!")
 ```
 *Output:*
 ```html
-Enter your name: Tanmay
-Hello, Tanmay! Welcome!
+Enter your name: Dhanesh
+Hello, Dhanesh! Welcome!
 
 ```
 
-> - Here, input() prompts the user with "Enter your name:" and stores the input 'Tanmay'.
-> - print() displays "Hello, Tanmay! Welcome!" using the value of name.
+> - Here, input() prompts the user with "Enter your name:" and stores the input 'Dhanesh'.
+> - print() displays "Hello, Dhanesh! Welcome!" using the value of name.
 
 </details> 
 
