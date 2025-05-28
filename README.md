@@ -141,6 +141,7 @@ City : Mumbai
 ```
 
 > - Here, 3 inputs are taken at a time.
+> - Age is taken as a string.
 
 
 </details> 
