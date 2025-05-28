@@ -26,7 +26,7 @@
 <table>
 <tr><td>
 
-<br> ![Print()](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![1.](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand 🔻</summary>
@@ -100,7 +100,7 @@ Dev
 </details>
 
 
-<br> ![Input()](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![2.](https://img.shields.io/badge/_2._-Input%20a%20string%20using%20input()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand 🔻</summary>
@@ -145,7 +145,7 @@ City : Mumbai
 
 </details> 
 
-<br> ![Typecasting](https://img.shields.io/badge/_3._-Typecasting-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![3.](https://img.shields.io/badge/_3._-Typecasting-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand 🔻</summary>
@@ -169,7 +169,7 @@ No. of Students: 10
 </details> 
 
 
-<br> ![Comments](https://img.shields.io/badge/_3._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![4.](https://img.shields.io/badge/_4._-Comments-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
   <summary>Click to expand 🔻</summary>
@@ -192,7 +192,7 @@ No. of Students: 10
 
 </details> 
 
-<br> ![Indentation](https://img.shields.io/badge/_4._-Indentation-34A853?style=for-the-badge&logo=python&logoColor=white)
+<br> ![5.](https://img.shields.io/badge/_5._-Indentation-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 <br> ▶️ Indentation is used to define blocks of code.
 <br> ▶️ All statements with the same level of indentation are considered part of the same block.
