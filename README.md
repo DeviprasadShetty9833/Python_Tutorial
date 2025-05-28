@@ -31,13 +31,13 @@
 <details>
   <summary>Click to expand 🔻</summary>
 
-  *Code* : 
+  *Code:*
 ```html 
 print("Hello World!")
 
 ```
 
-*Output* : 
+*Output:*
 ```html
 Hello World!
 
@@ -53,13 +53,13 @@ Hello World!
 <details>
   <summary>Click to expand 🔻</summary>
 
-  *Code* : 
+  *Code:*
 ```html 
 name = input("Enter your name: ")
 print("Hello, ", name, "! Welcome!")
 
 ```
-*Output* : 
+*Output:*
 ```html
 Enter your name: Tanmay
 Hello, Tanmay! Welcome!
@@ -78,7 +78,7 @@ Hello, Tanmay! Welcome!
 <details>
   <summary>Click to expand 🔻</summary>
   
-*Code* : 
+*Code:*
 ```html
 # This is a single-line comment.
 
@@ -87,7 +87,7 @@ Hello, Tanmay! Welcome!
 ''' This is a multi-line comment. '''
 
 ```
-*Output* : 
+*Output:*
 ```html
 
 ```
@@ -115,7 +115,7 @@ Hello, Tanmay! Welcome!
 <details>
   <summary>Click to expand 🔻</summary>
 
-*Code* : 
+*Code:*
 ```html
 if 10 > 5:
     print("I have indentation.")
