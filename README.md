@@ -93,8 +93,9 @@ Dev
 
 ```
 
-> - Here, print() displays name & age as 'Dev' & '18' together.
-> - 
+> - Here, name and age is stored as 'Dev' & '18' together.
+> - 2nd print() automatically inserts '\n' and  displays age as '18' on the next line.
+
 
 </details>
 
