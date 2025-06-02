@@ -260,6 +260,17 @@ else:
     print ("The regex pattern does not match.")
 ```
 
+*Output:*
+```html
+Match at index 14, 21
+Full match: June 24
+Month: June
+Day: 24
+```
+
+*Explanation:*
+
+
  **(B) `re.findall()`**
 - Returns **all matches** as a list.
 
@@ -289,6 +300,7 @@ text = "apple,banana,cherry"
 items = re.split(r",", text)
 print(items)  # Output: ['apple', 'banana', 'cherry']
 ```
+
 
 ---
 
