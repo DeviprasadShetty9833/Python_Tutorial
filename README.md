@@ -243,6 +243,46 @@ print("I have no indentation.")
 
 ▶️ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
 
+**(A) `re.search()`**
+- Checks if a pattern exists in a string.
+- Returns the **first match** (or `None`).
+
+```python
+text = "Python is fun"
+match = re.search(r"fun", text)
+if match:
+    print("Found:", match.group())  # Output: "fun"
+```
+
+ **(B) `re.findall()`**
+- Returns **all matches** as a list.
+
+```python
+text = "cats and dogs"
+matches = re.findall(r"[a-z]+", text)
+print(matches)  # Output: ['cats', 'and', 'dogs']
+```
+
+ **(C) `re.sub()`**
+- Replaces matches with new text.
+
+```python
+text = "Python is awesome"
+new_text = re.sub(r"awesome", "great", text)
+print(new_text)  # Output: "Python is great"
+```
+
+ **(D) `re.split()`**
+- Splits a string by a pattern.
+
+```python
+text = "apple,banana,cherry"
+items = re.split(r",", text)
+print(items)  # Output: ['apple', 'banana', 'cherry']
+```
+
+---
+
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
