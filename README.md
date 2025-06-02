@@ -31,7 +31,7 @@
 <details>
   <summary>Click to expand 🔻</summary>
 
-  *Code:*
+*Code:*
 ```python 
 print("Hello World!")
 
@@ -46,14 +46,14 @@ Hello World!
 > - Here, print() is a function that displays the string 'Hello World' on the console.
 
 
-  *Code:*
+*Code:*
 ```python 
 name = "Tanmay"
 print(name)
 
 ```
 
-  *Output:*
+*Output:*
 ```html
 Tanmay
 
@@ -62,7 +62,7 @@ Tanmay
 > - Here, name stores the value 'Tanmay'.
 > - print() displays Tanmay using the value of name.
 
-  *Code:*
+*Code:*
 ```python 
 name = "Dev"
 age = 19
@@ -70,7 +70,7 @@ print(name, age)
 
 ```
 
-  *Output:*
+*Output:*
 ```html
 Dev 19
 
@@ -78,7 +78,7 @@ Dev 19
 
 > - Here, print() displays name & age as 'Dev' & '18' together.
 
-  *Code:*
+*Code:*
 ```python 
 name, age = "Dev", 19
 print(name)
@@ -86,7 +86,7 @@ print(age)
 
 ```
 
-  *Output:*
+*Output:*
 ```html
 Dev
 19
@@ -105,7 +105,7 @@ Dev
 <details>
   <summary>Click to expand 🔻</summary>
 
-  *Code:*
+*Code:*
 ```python 
 name = input("Enter your name: ")
 print("Hello, ", name, "! Welcome!")
@@ -122,7 +122,7 @@ Hello, Dhanesh! Welcome!
 > - print() displays "Hello, Dhanesh! Welcome!" using the value of name.
 
  
-  *Code:*
+*Code:*
 ```python 
 x, y, z = input("Enter name, age, city: ").split()
 print("Name : ", x)
@@ -131,7 +131,7 @@ print("City : ", z)
 
 ```
 
-  *Output:*
+*Output:*
 ```html 
 Enter name, age, city: Dev, 19, Mumbai
 Name : Dev
@@ -150,14 +150,14 @@ City : Mumbai
 <details>
   <summary>Click to expand 🔻</summary>
   
-  *Code:*
+*Code:*
 ```python 
 n = int(input("No. of Students: "))
 print(n)
 
 ```
 
-  *Output:*
+*Output:*
 ```html 
 No. of Students: 10
 10
@@ -166,14 +166,14 @@ No. of Students: 10
 
 ```
 
-  *Code:*
+*Code:*
 ```python 
 m = float(input("Average Marks of Students: "))
 print(m)
 
 ```
 
-  *Output:*
+*Output:*
 ```html 
 No. of Students: 75.5
 75.5
@@ -247,6 +247,7 @@ print("I have no indentation.")
 - Checks if a pattern exists in a string.
 - Returns the **first match** (or `None`).
 
+*Code:*
 ```python
 text = "Python is fun"
 match = re.search(r"fun", text)
@@ -254,9 +255,15 @@ if match:
     print("Found:", match.group())  # Output: "fun"
 ```
 
+*Output:*
+```html
+Found: fun
+```
+
  **(B) `re.findall()`**
 - Returns **all matches** as a list.
 
+*Code:*
 ```python
 text = "cats and dogs"
 matches = re.findall(r"[a-z]+", text)
@@ -266,6 +273,7 @@ print(matches)  # Output: ['cats', 'and', 'dogs']
  **(C) `re.sub()`**
 - Replaces matches with new text.
 
+*Code:*
 ```python
 text = "Python is awesome"
 new_text = re.sub(r"awesome", "great", text)
@@ -275,6 +283,7 @@ print(new_text)  # Output: "Python is great"
  **(D) `re.split()`**
 - Splits a string by a pattern.
 
+*Code:*
 ```python
 text = "apple,banana,cherry"
 items = re.split(r",", text)
