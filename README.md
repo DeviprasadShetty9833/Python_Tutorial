@@ -241,7 +241,7 @@ print("I have no indentation.")
 
 # RegEx
 
-Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
+▶️ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
 
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
