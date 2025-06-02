@@ -252,7 +252,7 @@ print("I have no indentation.")
 text = "Python is fun"
 match = re.search(r"fun", text)
 if match:
-    print("Found:", match.group())  # Output: "fun"
+    print("Found:", match.group())  
 ```
 
 *Output:*
