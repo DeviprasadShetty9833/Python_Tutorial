@@ -239,6 +239,11 @@ print("I have no indentation.")
 
 <br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
+# RegEx
+
+Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
+
+
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
 ---
