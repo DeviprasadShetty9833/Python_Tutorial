@@ -269,6 +269,10 @@ Day: 2
 ```
 
 *Explanation:*
+- r"..." : Raw string to avoid escaping backslashes (i.e., \n stays as \n).
+-([a-zA-Z]+) : Match one or more letters (uppercase or lowercase). i.e., the month name.
+-(\d+) : Match one or more digits i.e., the day number.
+- The space   between them = Expect a space between the two parts.
 
 
  **(B) `re.findall()`**
