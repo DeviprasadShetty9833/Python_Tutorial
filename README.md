@@ -249,7 +249,7 @@ Found: fun
 import re
 regex = r"([a-zA-Z]+) (\d+)"
 
-match = re.search(regex, "I was born on June 24")
+match = re.search(regex, "I was born on June 2")
 if match != None:
     print ("Match at index %s, %s" % (match.start(), match.end()))
     print ("Full match: %s" % (match.group(0)))
@@ -262,10 +262,10 @@ else:
 
 *Output:*
 ```html
-Match at index 14, 21
-Full match: June 24
+Match at index 14, 20
+Full match: June 2
 Month: June
-Day: 24
+Day: 2
 ```
 
 *Explanation:*
