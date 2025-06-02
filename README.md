@@ -32,7 +32,7 @@
   <summary>Click to expand 🔻</summary>
 
   *Code:*
-```html 
+```python 
 print("Hello World!")
 
 ```
@@ -47,7 +47,7 @@ Hello World!
 
 
   *Code:*
-```html 
+```python 
 name = "Tanmay"
 print(name)
 
@@ -63,7 +63,7 @@ Tanmay
 > - print() displays Tanmay using the value of name.
 
   *Code:*
-```html 
+```python 
 name = "Dev"
 age = 19
 print(name, age)
@@ -79,7 +79,7 @@ Dev 19
 > - Here, print() displays name & age as 'Dev' & '18' together.
 
   *Code:*
-```html 
+```python 
 name, age = "Dev", 19
 print(name)
 print(age)
@@ -106,7 +106,7 @@ Dev
   <summary>Click to expand 🔻</summary>
 
   *Code:*
-```html 
+```python 
 name = input("Enter your name: ")
 print("Hello, ", name, "! Welcome!")
 
@@ -123,7 +123,7 @@ Hello, Dhanesh! Welcome!
 
  
   *Code:*
-```html 
+```python 
 x, y, z = input("Enter name, age, city: ").split()
 print("Name : ", x)
 print("Age : ", y)
@@ -151,7 +151,7 @@ City : Mumbai
   <summary>Click to expand 🔻</summary>
   
   *Code:*
-```html 
+```python 
 n = int(input("No. of Students: "))
 print(n)
 
@@ -167,7 +167,7 @@ No. of Students: 10
 ```
 
   *Code:*
-```html 
+```python 
 m = float(input("Average Marks of Students: "))
 print(m)
 
@@ -191,7 +191,7 @@ No. of Students: 75.5
   <summary>Click to expand 🔻</summary>
   
 *Code:*
-```html
+```python
 # This is a single-line comment.
 
 """ This is a multi-line comment. """
@@ -219,7 +219,7 @@ No. of Students: 75.5
   <summary>Click to expand 🔻</summary>
 
 *Code:*
-```html
+```python
 if 10 > 5:
     print("I have indentation.")
 
