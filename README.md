@@ -273,7 +273,10 @@ Day: 2
 - ([a-zA-Z]+) : Match one or more letters (uppercase or lowercase). i.e., the month name.
 - (\d+) : Match one or more digits i.e., the day number.
 - The space '  ' between them : Expect a space between the two parts.
-
+- match.start(), match.end() : Starting & Ending index of match in the string.
+- match.group(0) : entire matched string.
+- match.group(1) : 1st group of matched string.
+- match.group(2) : 2nd group of matched string.
 
  **(B) `re.findall()`**
 - Returns **all matches** as a list.
