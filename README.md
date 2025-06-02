@@ -34,13 +34,11 @@
 *Code:*
 ```python 
 print("Hello World!")
-
 ```
 
 *Output:*
 ```html
 Hello World!
-
 ```
 
 > - Here, print() is a function that displays the string 'Hello World' on the console.
@@ -50,13 +48,11 @@ Hello World!
 ```python 
 name = "Tanmay"
 print(name)
-
 ```
 
 *Output:*
 ```html
 Tanmay
-
 ```
 
 > - Here, name stores the value 'Tanmay'.
@@ -67,13 +63,11 @@ Tanmay
 name = "Dev"
 age = 19
 print(name, age)
-
 ```
 
 *Output:*
 ```html
 Dev 19
-
 ```
 
 > - Here, print() displays name & age as 'Dev' & '18' together.
@@ -83,14 +77,12 @@ Dev 19
 name, age = "Dev", 19
 print(name)
 print(age)
-
 ```
 
 *Output:*
 ```html
 Dev
 19
-
 ```
 
 > - Here, name and age is stored as 'Dev' & '18' at a time.
@@ -109,13 +101,12 @@ Dev
 ```python 
 name = input("Enter your name: ")
 print("Hello, ", name, "! Welcome!")
-
 ```
+
 *Output:*
 ```html
 Enter your name: Dhanesh
 Hello, Dhanesh! Welcome!
-
 ```
 
 > - Here, input() prompts the user with "Enter your name:" and stores the input 'Dhanesh' of datatype string.
@@ -128,7 +119,6 @@ x, y, z = input("Enter name, age, city: ").split()
 print("Name : ", x)
 print("Age : ", y)
 print("City : ", z)
-
 ```
 
 *Output:*
@@ -137,7 +127,6 @@ Enter name, age, city: Dev, 19, Mumbai
 Name : Dev
 Age : 19
 City : Mumbai
-
 ```
 
 > - Here, 3 inputs are taken at a time.
@@ -154,7 +143,6 @@ City : Mumbai
 ```python 
 n = int(input("No. of Students: "))
 print(n)
-
 ```
 
 *Output:*
@@ -163,14 +151,12 @@ No. of Students: 10
 10
 
 > - Here, the variable n is converted to datatype int.
-
 ```
 
 *Code:*
 ```python 
 m = float(input("Average Marks of Students: "))
 print(m)
-
 ```
 
 *Output:*
@@ -179,7 +165,6 @@ No. of Students: 75.5
 75.5
 
 > - Here, the variable m is converted to datatype float.
-
 ```
 
 </details> 
@@ -197,7 +182,6 @@ No. of Students: 75.5
 """ This is a multi-line comment. """
 
 ''' This is a multi-line comment. '''
-
 ```
 *Output:*
 ```html
@@ -258,6 +242,22 @@ if match:
 *Output:*
 ```html
 Found: fun
+```
+
+*Code:*
+```python
+import re
+regex = r"([a-zA-Z]+) (\d+)"
+
+match = re.search(regex, "I was born on June 24")
+if match != None:
+    print ("Match at index %s, %s" % (match.start(), match.end()))
+    print ("Full match: %s" % (match.group(0)))
+    print ("Month: %s" % (match.group(1)))
+    print ("Day: %s" % (match.group(2)))
+
+else:
+    print ("The regex pattern does not match.")
 ```
 
  **(B) `re.findall()`**
