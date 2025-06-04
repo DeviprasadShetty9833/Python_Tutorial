@@ -268,28 +268,30 @@ print(type(z))
 
 <br> ![2.](https://img.shields.io/badge/_2._-Dictionary-34A853?style=for-the-badge&logo=python&logoColor=white)
 
+▶️ Creating a Dictionary 
+
 *Code:*
 ```python
-d1 = {1 : 'Geeks', 2 : 'For', 3 : 'Geeks'}
+d1 = {1 : 'Hello', 2 : 'Good', 3 : 'Morning'}
 print(d1)
 ```
 
 *Output:*
 ```html
-{1 : 'Geeks', 2 : 'For', 3 : 'Geeks'}
+{1 : 'Hello', 2 : 'Good', 3 : 'Morning'}
 ```
 
 - Using dict()
 
 *Code:*
 ```python
-d2 = dict(a = "Geeks", b = "For", c = 'Geeks')  # String keys only
+d2 = dict(a = "Hello", b = "Good", c = 'Morning')  # String keys only
 print(d2)
 ```
 
 *Output:*
 ```html
-{'a' : 'Geeks', 'b' : 'For', 'c' : 'Geeks'}
+{'a' : 'Hello', 'b' : 'Good', 'c' : 'Morning'}
 ```
 
 - Using dict() & zip()
@@ -348,6 +350,24 @@ print(d6)
 ```html
 {'name' : 'Deva', 15 : 'age'}
 ```
+
+▶️ Accessing Dictionary items
+
+*Code:*
+```python
+d = {'name' : 'Deva', 1 : 'Python', (1,2) : (1,2,4)}
+print(d[name])  # Only keys can be used to access items.
+print(d[1])
+print(d[(1,2)])
+```
+
+*Output:*
+```html
+Deva
+Python
+(1,2,4)
+```
+
 
 3. Boolean
 4. Set
