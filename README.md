@@ -355,17 +355,24 @@ print(d6)
 
 *Code:*
 ```python
-d = {'name' : 'Deva', 1 : 'Python', (1,2) : (1,2,4)}
-print(d[name])  # Only keys can be used to access items.
-print(d[1])
-print(d[(1,2)])
+keys = ['name', '1', (1,2)]
+values = ['Deva', 'Python', (1,2,4)]
+
+d1 = dict(zip(keys, values))
+print(d1)
+print(d1['name'])  # Only Keys(LHS) can be used to access items.
+
+d2 = dict(zip(values, keys))
+print(d2)
+print(d2['1'])
 ```
 
 *Output:*
 ```html
+{'name' : 'Deva', '1' : 'Python', (1,2) : (1,2,4)}
 Deva
-Python
-(1,2,4)
+{'Deva' : 'name', 'Python' : '1', (1,2,4) : (1,2)}
+
 ```
 
 - Using get()
