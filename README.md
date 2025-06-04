@@ -312,6 +312,42 @@ print(d3)
 ```
 > -  Initially, 1 is assigned to 'Geeks' then 1 is replaced and 3 is assigned to 'Geeks'.
 
+*Code:*
+```python
+d4 = {'GEEKS' : 1, 'For' : 2, 'Geeks' : 3}  # Case sensitive 
+print(d4)
+```
+
+*Output:*
+```html
+{'GEEKS' : 1, 'For' : 2, 'Geeks' : 3}
+```
+
+- Storing different values
+
+*Code:*
+```python
+d5 = {'name' : 'Deva', 'age' : 19}
+print(d5)
+```
+
+*Output:*
+```html
+{'name' : 'Deva', 'age' : 19}
+```
+
+- Storing different keys
+
+*Code:*
+```python
+d6 = {"name" : 'Deva', 15 : "age"}
+print(d6)
+```
+
+*Output:*
+```html
+{'name' : 'Deva', 15 : 'age'}
+```
 
 3. Boolean
 4. Set
