@@ -219,6 +219,19 @@ print("I have no indentation.")
 
 # Data Types
 
+1. Numeric
+ - Integer
+ - Float
+ - Complex
+2. Dictionary
+3. Boolean
+4. Set
+5. Sequence
+ - String
+ - List
+ - Tuple 
+   
+
 # Oops Concept 
 
 <br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white)   
