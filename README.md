@@ -60,29 +60,29 @@ Tanmay
 
 *Code:*
 ```python 
-name = "Dev"
-age = 19
+name = "Ritesh"
+age = 18
 print(name, age)
 ```
 
 *Output:*
 ```html
-Dev 19
+Ritesh 18
 ```
 
 > - Here, print() displays name & age as 'Dev' & '18' together.
 
 *Code:*
 ```python 
-name, age = "Dev", 19
+name, age = "Harsh", 18
 print(name)
 print(age)
 ```
 
 *Output:*
 ```html
-Dev
-19
+Harsh
+18
 ```
 
 > - Here, name and age is stored as 'Dev' & '18' at a time.
