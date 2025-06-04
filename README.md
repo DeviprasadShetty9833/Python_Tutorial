@@ -368,6 +368,23 @@ Python
 (1,2,4)
 ```
 
+- Using get()
+
+*Code:*
+```python
+d = {'name' : 'Deva', 1 : 'Python', (1,2) : [1,2,4]}
+print(d.get("name"))  # Only keys can be used to access items.
+print(d.get(1))
+print(d.get((1,2)))
+```
+
+*Output:*
+```html
+Deva
+Python
+[1,2,4]
+```
+
 
 3. Boolean
 4. Set
