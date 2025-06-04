@@ -217,11 +217,17 @@ print("I have no indentation.")
 </td></tr>
 </table>
 
+<table>
+<tr><td>
+
 # Data Types
 
 <br> ![1.](https://img.shields.io/badge/_1._-Numeric-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 1.1 Integer
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 *Code:*
 ```python
@@ -236,7 +242,12 @@ print(type(x))
 <class 'int'>
 ```
 
+</details>
+
 1.2 Float 
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 *Code:*
 ```python
@@ -251,7 +262,12 @@ print(type(y))
 <class 'float'>
 ```
 
+</details> 
+
 1.3 Complex
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 *Code:*
 ```python
@@ -266,9 +282,14 @@ print(type(z))
 <class 'complex'>
 ```
 
+</details> 
+
 <br> ![2.](https://img.shields.io/badge/_2._-Dictionary-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 ▶️ Creating a Dictionary 
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 *Code:*
 ```python
@@ -351,7 +372,12 @@ print(d6)
 {'name' : 'Deva', 15 : 'age'}
 ```
 
+</details> 
+
 ▶️ Accessing Dictionary items
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 *Code:*
 ```python
@@ -392,12 +418,19 @@ Python
 [1,2,4]
 ```
 
+</details> 
+
 ▶️ Deleting Dictionary items
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 - Using del
 - Using pop()
 - Using popitem()
-- 
+
+
+</details> 
 
 3. Boolean
 4. Set
@@ -407,7 +440,8 @@ Python
  - Tuple
 
 
- 
+</td></tr>
+</table>
    
 
 # Oops Concept 
