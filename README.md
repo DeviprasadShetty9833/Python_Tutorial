@@ -219,17 +219,62 @@ print("I have no indentation.")
 
 # Data Types
 
-1. Numeric
- - Integer
- - Float
- - Complex
+<br> ![1.](https://img.shields.io/badge/_1._-Numeric-34A853?style=for-the-badge&logo=python&logoColor=white)
+1.1 Integer
+
+*Code:*
+```python
+x = int(1)
+print(x)
+print(type(x))
+```
+
+*Output:*
+```html
+1
+<class 'int'>
+```
+
+1.2 Float 
+
+*Code:*
+```python
+y = float(2)
+print(y)
+print(type(y))
+```
+
+*Output:*
+```html
+2.0
+<class 'float'>
+```
+
+1.3 Complex
+
+*Code:*
+```python
+z = complex(1, 2)
+print(z)
+print(type(z))
+```
+
+*Output:*
+```html
+1 + 2j
+<class 'complex'>
+```
+
 2. Dictionary
 3. Boolean
 4. Set
 5. Sequence
  - String
  - List
- - Tuple 
+ - Tuple
+
+
+ 
    
 
 # Oops Concept 
