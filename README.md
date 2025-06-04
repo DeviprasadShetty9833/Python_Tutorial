@@ -220,6 +220,7 @@ print("I have no indentation.")
 # Data Types
 
 <br> ![1.](https://img.shields.io/badge/_1._-Numeric-34A853?style=for-the-badge&logo=python&logoColor=white)
+
 1.1 Integer
 
 *Code:*
@@ -299,7 +300,7 @@ keys = [1, 2, 3]
 values = ['Geeks', 'For', 'Geeks']
 d3 = dict(zip(keys, values))
 print(d3)
-d3 = dict(zip(values, keys))
+d3 = dict(zip(values, keys))  # Dictionaries are mutable
 print(d3)
 
 ```
@@ -309,6 +310,7 @@ print(d3)
 {1 : 'Geeks', 2 : 'For', 3 : 'Geeks'}
 {'Geeks' : 3, 'For' : 2}
 ```
+> -  Initially, 1 is assigned to 'Geeks' then 1 is replaced and 3 is assigned to 'Geeks'.
 
 
 3. Boolean
