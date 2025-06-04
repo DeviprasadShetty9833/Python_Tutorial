@@ -265,7 +265,52 @@ print(type(z))
 <class 'complex'>
 ```
 
-2. Dictionary
+<br> ![2.](https://img.shields.io/badge/_2._-Dictionary-34A853?style=for-the-badge&logo=python&logoColor=white)
+
+*Code:*
+```python
+d1 = {1 : 'Geeks', 2 : 'For', 3 : 'Geeks'}
+print(d1)
+```
+
+*Output:*
+```html
+{1 : 'Geeks', 2 : 'For', 3 : 'Geeks'}
+```
+
+- Using dict()
+
+*Code:*
+```python
+d2 = dict(a = "Geeks", b = "For", c = 'Geeks')  # String keys only
+print(d2)
+```
+
+*Output:*
+```html
+{'a' : 'Geeks', 'b' : 'For', 'c' : 'Geeks'}
+```
+
+- Using dict() & zip()
+
+*Code:*
+```python
+keys = [1, 2, 3]
+values = ['Geeks', 'For', 'Geeks']
+d3 = dict(zip(keys, values))
+print(d3)
+d3 = dict(zip(values, keys))
+print(d3)
+
+```
+
+*Output:*
+```html
+{1 : 'Geeks', 2 : 'For', 3 : 'Geeks'}
+{'Geeks' : 3, 'For' : 2}
+```
+
+
 3. Boolean
 4. Set
 5. Sequence
