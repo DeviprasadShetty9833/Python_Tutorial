@@ -392,6 +392,12 @@ Python
 [1,2,4]
 ```
 
+▶️ Deleting Dictionary items
+
+- Using del
+- Using pop()
+- Using popitem()
+- 
 
 3. Boolean
 4. Set
