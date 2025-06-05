@@ -711,10 +711,12 @@ False
 ```python
 set1  = set(" Hello Good Morning")
 print(set1)
+print(type(set1))
 ```
 *Output:*
 ```html
 {'n', 'r', ' ', 'o', 'g', 'i', 'l', 'd', 'G', 'M', 'H', 'e'}
+<class 'set'>
 ```
 > - Output varies as Sets display Unordered elements with No Duplicates.
 
