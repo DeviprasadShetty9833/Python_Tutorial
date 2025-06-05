@@ -574,6 +574,21 @@ False
 
 *Code:*
 ```python
+x = 1
+print(bool(x))
+
+y = - 1.5
+print(bool(y))
+```
+
+*Output:*
+```html
+True
+True
+```
+
+*Code:*
+```python
 x = 'Hello'   # non empty string
 print(bool(x))
 ```
@@ -582,23 +597,6 @@ print(bool(x))
 ```html
 True
 ```
-
-
-
-var1 = 0
-print(bool(var1))
-
-var2 = 1
-print(bool(var2))
-
-var3 = -9.7
-print(bool(var3))
-
-Output
-False
-True
-True
-
 
 5. Set
 6. Sequence
