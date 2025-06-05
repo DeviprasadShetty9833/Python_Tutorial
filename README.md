@@ -679,7 +679,22 @@ True
 
 > - `==` & `is` operator work differently. `==` focuses on same values while `is` focuses on values at same Memory location.
 
+🔸 in Operator
 
+*Code:*
+```python
+fruits = ["apple", "banana", "cherry"]
+print("banana" in fruits)  
+print("orange" in fruits)
+```
+
+*Output:*
+```html
+True
+False
+```
+
+> - It checks if a value exists within a sequence (like a list, tuple, string, or range).
 
 </details> 
 
