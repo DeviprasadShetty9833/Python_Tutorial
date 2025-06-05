@@ -679,7 +679,8 @@ True
 
 
 
-> [!CAUTION]\
+> [!CAUTION]
+> Blue
 > `==` & `is` operator work differently. `==` focuses on same values while `is` focuses on values at same Memory location.
 
 
