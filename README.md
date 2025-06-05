@@ -666,7 +666,16 @@ True
 
 🔸 is Operator
 
+*Code:*
+```python
+A, B = 5, 5
+print(A is B)
+```
 
+*Output:*
+```html
+True
+```
 
 
 </details> 
