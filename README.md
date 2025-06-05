@@ -730,7 +730,7 @@ print(set2)
 
 *Output:*
 ```html
-
+{'Hello', True, 10, 52.7}
 ```
 
 > - Output varies as Sets display Unordered elements with No Duplicates.
