@@ -542,32 +542,47 @@ print(d)
 
 <br> ![3.](https://img.shields.io/badge/_3._-Boolean-34A853?style=for-the-badge&logo=python&logoColor=white)
 
+*Code:*
+```python
+x = {}   # empty mapping 
+print(bool(x))
 
+y = ()   # empty sequence
+print(bool(y))
+```
+
+*Output:*
+```html
+False
+False
+```
+
+*Code:*
+```python
 x = None
 print(bool(x))
 
-# Returns False as x is an empty sequence
-x = ()
-print(bool(x))
+y = 0.0
+print(bool(y))
+```
 
-# Returns False as x is an empty mapping
-x = {}
-print(bool(x))
-
-# Returns False as x is 0
-x = 0.0
-print(bool(x))
-
-# Returns True as x is a non empty string
-x = 'GeeksforGeeks'
-print(bool(x))
-
-Output
+*Output:*
+```html
 False
 False
-False
-False
+```
+
+*Code:*
+```python
+x = 'Hello'   # non empty string
+print(bool(x))
+```
+
+*Output:*
+```html
 True
+```
+
 
 
 var1 = 0
@@ -598,7 +613,7 @@ True
 
 # Oops Concept 
 
-<br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white) 🐻‍❄️   
+<br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white) 
 
 # RegEx
 
