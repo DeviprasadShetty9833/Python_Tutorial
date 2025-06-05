@@ -737,6 +737,21 @@ print(set2)
 
 > - Output varies as Sets display Unordered elements with No Duplicates.
 
+▶️ Accessing a Set 
+
+*Code:*
+```python
+set1  = set(" Hello Good Morning")
+
+for i in set1:
+    print(i, end=" ")
+```
+
+*Output:*
+```html
+
+```
+
 ▶️ Adding items to set
 
 
