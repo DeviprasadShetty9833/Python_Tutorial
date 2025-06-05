@@ -542,6 +542,11 @@ print(d)
 
 <br> ![3.](https://img.shields.io/badge/_3._-Boolean-34A853?style=for-the-badge&logo=python&logoColor=white)
 
+▶️ Boolean Examples 
+
+<details>
+  <summary>Click to expand 🔻</summary>
+  
 *Code:*
 ```python
 x = {}   # empty mapping 
@@ -597,6 +602,16 @@ print(bool(x))
 ```html
 True
 ```
+
+</details> 
+
+▶️ Boolean Operators 
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+
+</details> 
 
 5. Set
 6. Sequence
