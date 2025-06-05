@@ -707,6 +707,8 @@ False
 
 <br> ![4.](https://img.shields.io/badge/_4._-Set-34A853?style=for-the-badge&logo=python&logoColor=white)
 
+▶️ Creating a set
+
 *Code:*
 ```python
 set1  = set(" Hello Good Morning")
@@ -719,6 +721,8 @@ print(type(set1))
 <class 'set'>
 ```
 > - Output varies as Sets display Unordered elements with No Duplicates.
+
+▶️ Adding 
 
 5. Sequence
  - String
