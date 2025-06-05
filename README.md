@@ -678,7 +678,7 @@ True
 ```
 
 > [!NOTE]\ 
-> `==` & `is` operator work differently. `==` focuses on same values while `is` focuses on values at same Memory location.
+> - `==` & `is` operator work differently. `==` focuses on same values while `is` focuses on values at same Memory location.
 
 </details> 
 
