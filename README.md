@@ -523,6 +523,9 @@ Key, Value : Morning, 3
 
 ▶️ Nested Dictionaries
 
+<details>
+  <summary>Click to expand 🔻</summary>
+
 *Code:*
 ```python
 d = {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
@@ -533,6 +536,9 @@ print(d)
 ```html
 {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
 ```
+
+</details> 
+
 
 <br> ![3.](https://img.shields.io/badge/_3._-Boolean-34A853?style=for-the-badge&logo=python&logoColor=white)
 
