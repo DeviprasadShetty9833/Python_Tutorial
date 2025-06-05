@@ -525,13 +525,13 @@ Key, Value : Morning, 3
 
 *Code:*
 ```python
-d = {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}
+d = {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
 print(d)
 ```
 
 *Output:*
 ```html
-{1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}
+{1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
 ```
 
 3. Boolean
