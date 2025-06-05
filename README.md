@@ -715,11 +715,23 @@ set1  = set(" Hello Good Morning")
 print(set1)
 print(type(set1))
 ```
+
 *Output:*
 ```html
 {'n', 'r', ' ', 'o', 'g', 'i', 'l', 'd', 'G', 'M', 'H', 'e'}
 <class 'set'>
 ```
+
+*Code:*
+```python
+set2 = {"Geeks", "for", 10, 52.7, True}
+print(set2)
+```
+
+*Output:*
+```html
+
+
 > - Output varies as Sets display Unordered elements with No Duplicates.
 
 ▶️ Adding items to set
