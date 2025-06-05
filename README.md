@@ -480,12 +480,12 @@ Key : 3, Value : Morning
 ```python
 d = {1 : 'Hello', '2' : 'Good', 'Morning' : 3}
 
-for K in d.keys()
+for K in d.keys():
     print(f"Key : {K}")
 
 print("\n")
 
-for V in d.values()
+for V in d.values():
     print(f"Value : {V}")
 ```
 
@@ -499,6 +499,21 @@ Value : Hello
 Value : Good
 Value : 3
 
+```
+
+*Code:*
+```python
+d = {1 : 'Hello', '2' : 'Good', 'Morning' : 3}
+
+for K, V in d.items():
+    print(f"Key, Value : {K}, {V}")
+```
+
+*Output:*
+```html
+Key, Value : 1, Hello
+Key, Value : 2, Good
+Key, Value : Morning, 3
 ```
 
 3. Boolean
