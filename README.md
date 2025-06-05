@@ -476,6 +476,9 @@ Key : 3, Value : Morning
 
 ▶️ Iterating through Dictionary items
 
+<details>
+  <summary>Click to expand 🔻</summary>
+  
 *Code:*
 ```python
 d = {1 : 'Hello', '2' : 'Good', 'Morning' : 3}
@@ -515,6 +518,8 @@ Key, Value : 1, Hello
 Key, Value : 2, Good
 Key, Value : Morning, 3
 ```
+
+</details> 
 
 3. Boolean
 4. Set
