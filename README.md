@@ -149,9 +149,10 @@ print(n)
 ```html 
 No. of Students: 10
 10
+```
 
 > - Here, the variable n is converted to datatype int.
-```
+
 
 *Code:*
 ```python 
@@ -163,9 +164,10 @@ print(m)
 ```html 
 No. of Students: 75.5
 75.5
+```
 
 > - Here, the variable m is converted to datatype float.
-```
+
 
 </details> 
 
