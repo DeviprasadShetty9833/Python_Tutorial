@@ -610,6 +610,8 @@ True
 <details>
   <summary>Click to expand 🔻</summary>
 
+🔸 OR & AND operator  
+
 *Code:*
 ```python
 A, B = True, False
@@ -622,6 +624,17 @@ print(A and B)  # True - Iff both variables are True.
 True
 False
 ```
+
+*Logic:*
+
+|   A   |   B   |  OR   |  AND  |
+|-------|-------|-------|-------|
+| True  | True  | True  | True  |
+| True  | False | True  | False |
+| False | True  | True  | False |
+| False | False | False | False |
+
+🔸 NOT Operator
 
 *Code:*
 ```python
@@ -636,11 +649,13 @@ False
 True
 ```
 
+🔸 Equivalent & Not equivalent Operator
+
 *Code:*
 ```python
 A, B = True, False
-print(A == B)   # True - Iff both variables are same.
-print(A != B)   # True - Iff both variables are not same.
+print(A == B)   # True - Iff both variables have same value.
+print(A != B)   # True - Iff both variables don't have same value.
 ```
 
 *Output:*
@@ -649,14 +664,8 @@ False
 True
 ```
 
-*Logic:*
+🔸 is Operator
 
-|   A   |   B   |  OR   |  AND  |
-|-------|-------|-------|-------|
-| True  | True  | True  | True  |
-| True  | False | True  | False |
-| False | True  | True  | False |
-| False | False | False | False |
 
 
 
