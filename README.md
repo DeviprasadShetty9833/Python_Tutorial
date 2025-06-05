@@ -649,6 +649,17 @@ False
 True
 ```
 
+*Logic:*
+
+|   A   |   B   |  OR   |  AND  |
+|-------|-------|-------|-------|
+| True  | True  | True  | True  |
+| True  | False | True  | False |
+| False | True  | True  | False |
+| False | False | False | False |
+
+
+
 </details> 
 
 5. Set
