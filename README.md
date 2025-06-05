@@ -521,6 +521,19 @@ Key, Value : Morning, 3
 
 </details> 
 
+▶️ Nested Dictionaries
+
+*Code:*
+```python
+d = {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}
+print(d)
+```
+
+*Output:*
+```html
+{1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}
+```
+
 3. Boolean
 4. Set
 5. Sequence
