@@ -219,10 +219,10 @@ print("I have no indentation.")
 </td></tr>
 </table>
 
+# Data Types
+
 <table>
 <tr><td>
-
-# Data Types
 
 <br> ![1.](https://img.shields.io/badge/_1._-Numeric-34A853?style=for-the-badge&logo=python&logoColor=white)
 
