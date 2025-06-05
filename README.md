@@ -677,6 +677,8 @@ print(A is B)   # True - if both variables refer to the same value in memory.
 True
 ```
 
+> [!NOTE]\ 
+> `==` & `is` operator work differently. `==` focuses on same values while `is` focuses on values at same Memory location.
 
 </details> 
 
