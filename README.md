@@ -611,9 +611,18 @@ True
 
 # Oops Concept 
 
+<table>
+<tr><td>
+
 <br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white) 
 
+</td></tr>
+</table>
+
 # RegEx
+
+<table>
+<tr><td>
 
 ▶️ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
 
@@ -697,6 +706,9 @@ text = "apple,banana,cherry"
 items = re.split(r",", text)
 print(items)  # Output: ['apple', 'banana', 'cherry']
 ```
+
+</td></tr>
+</table>
 
 
 ---
