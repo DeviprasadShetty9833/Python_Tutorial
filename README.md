@@ -722,6 +722,8 @@ print(type(set1))
 <class 'set'>
 ```
 
+🔸 Heterogeneous Elements
+
 *Code:*
 ```python
 set2 = {"Hello", 10, 52.7, True}
