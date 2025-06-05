@@ -669,7 +669,7 @@ True
 *Code:*
 ```python
 A, B = 5, 5
-print(A is B)
+print(A is B)   # True - if both variables refer to the same value in memory. 
 ```
 
 *Output:*
