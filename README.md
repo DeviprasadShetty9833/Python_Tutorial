@@ -613,8 +613,8 @@ True
 *Code:*
 ```python
 A, B = True, False
-print(A or B)
-print(A and B)
+print(A or B)   # True - If any one variable is True.
+print(A and B)  # True - Iff both variables are True.
 ```
 
 *Output:*
@@ -626,7 +626,7 @@ False
 *Code:*
 ```python
 A, B = True, False
-print(not A)
+print(not A)   # True - If variable is False.
 print(not B)
 ```
 
@@ -639,8 +639,8 @@ True
 *Code:*
 ```python
 A, B = True, False
-print(A == B)
-print(A != B)
+print(A == B)   # True - Iff both variables are same.
+print(A != B)   # True - Iff both variables are not same.
 ```
 
 *Output:*
