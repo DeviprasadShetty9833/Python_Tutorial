@@ -724,7 +724,7 @@ print(type(set1))
 
 *Code:*
 ```python
-set2 = {"Geeks", "for", 10, 52.7, True}
+set2 = {"Hello", 10, 52.7, True}
 print(set2)
 ```
 
