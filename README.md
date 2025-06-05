@@ -722,7 +722,9 @@ print(type(set1))
 ```
 > - Output varies as Sets display Unordered elements with No Duplicates.
 
-▶️ Adding 
+▶️ Adding items to set
+
+
 
 5. Sequence
  - String
