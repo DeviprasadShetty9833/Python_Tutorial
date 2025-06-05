@@ -610,6 +610,44 @@ True
 <details>
   <summary>Click to expand 🔻</summary>
 
+*Code:*
+```python
+A, B = True, False
+print(A or B)
+print(A and B)
+```
+
+*Output:*
+```html
+True
+False
+```
+
+*Code:*
+```python
+A, B = True, False
+print(not A)
+print(not B)
+```
+
+*Output:*
+```html
+False
+True
+```
+
+*Code:*
+```python
+A, B = True, False
+print(A == B)
+print(A != B)
+```
+
+*Output:*
+```html
+False
+True
+```
 
 </details> 
 
