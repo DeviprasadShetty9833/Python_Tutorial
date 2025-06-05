@@ -698,8 +698,20 @@ False
 
 </details> 
 
-5. Set
-6. Sequence
+<br> ![4.](https://img.shields.io/badge/_4._-Set-34A853?style=for-the-badge&logo=python&logoColor=white)
+
+*Code:*
+```python
+set1  = set(" Hello Good Morning")
+print(set1)
+```
+*Output:*
+```html
+{'n', 'r', ' ', 'o', 'g', 'i', 'l', 'd', 'G', 'M', 'H', 'e'}
+```
+> - Output varies as Sets display Unordered elements with No Duplicates.
+
+5. Sequence
  - String
  - List
  - Tuple
