@@ -426,6 +426,19 @@ Python
   <summary>Click to expand 🔻</summary>
 
 - Using del
+
+  *Code:*
+```python
+d = {1 : 'Hello', '2' : 'Good', 3 : 'Morning', 4 : 'Deva'}
+del d['2']   # Deletes only Keys(LHS).
+print(d)
+```
+
+*Output:*
+```html
+{1 : 'Hello', '2' : 'Good', 3 : 'Morning'}
+```
+
 - Using pop()
 - Using popitem()
 
