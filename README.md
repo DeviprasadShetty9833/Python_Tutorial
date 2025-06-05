@@ -534,9 +534,53 @@ print(d)
 {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
 ```
 
-3. Boolean
-4. Set
-5. Sequence
+<br> ![3.](https://img.shields.io/badge/_3._-Boolean-34A853?style=for-the-badge&logo=python&logoColor=white)
+
+
+x = None
+print(bool(x))
+
+# Returns False as x is an empty sequence
+x = ()
+print(bool(x))
+
+# Returns False as x is an empty mapping
+x = {}
+print(bool(x))
+
+# Returns False as x is 0
+x = 0.0
+print(bool(x))
+
+# Returns True as x is a non empty string
+x = 'GeeksforGeeks'
+print(bool(x))
+
+Output
+False
+False
+False
+False
+True
+
+
+var1 = 0
+print(bool(var1))
+
+var2 = 1
+print(bool(var2))
+
+var3 = -9.7
+print(bool(var3))
+
+Output
+False
+True
+True
+
+
+5. Set
+6. Sequence
  - String
  - List
  - Tuple
@@ -548,7 +592,7 @@ print(d)
 
 # Oops Concept 
 
-<br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white)   
+<br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white) 🐻‍❄️   
 
 # RegEx
 
