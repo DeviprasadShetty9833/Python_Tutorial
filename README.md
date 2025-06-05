@@ -474,6 +474,33 @@ Key : 3, Value : Morning
 
 </details> 
 
+▶️ Iterating through Dictionary items
+
+*Code:*
+```python
+d = {1 : 'Hello', '2' : 'Good', 'Morning' : 3}
+
+for K in d.keys()
+    print(f"Key : {K}")
+
+print("\n")
+
+for V in d.values()
+    print(f"Value : {V}")
+```
+
+*Output:*
+```html
+Key : 1
+Key : 2
+Key : Morning
+
+Value : Hello
+Value : Good
+Value : 3
+
+```
+
 3. Boolean
 4. Set
 5. Sequence
