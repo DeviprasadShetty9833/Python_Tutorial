@@ -304,7 +304,7 @@ print(d1)
 {1 : 'Hello', 2 : 'Good', 3 : 'Morning'}
 ```
 
-- Using dict()
+🔸 Using dict()
 
 *Code:*
 ```python
@@ -317,7 +317,7 @@ print(d2)
 {'a' : 'Hello', 'b' : 'Good', 'c' : 'Morning'}
 ```
 
-- Using dict() & zip()
+🔸 Using dict() & zip()
 
 *Code:*
 ```python
@@ -348,7 +348,7 @@ print(d4)
 {'GEEKS' : 1, 'For' : 2, 'Geeks' : 3}
 ```
 
-- Storing different values
+🔸 Storing different values
 
 *Code:*
 ```python
@@ -361,7 +361,7 @@ print(d5)
 {'name' : 'Deva', 'age' : 19}
 ```
 
-- Storing different keys
+🔸 Storing different keys
 
 *Code:*
 ```python
@@ -403,7 +403,7 @@ Deva
 
 ```
 
-- Using get()
+🔸 Using get()
 
 *Code:*
 ```python
@@ -427,7 +427,7 @@ Python
 <details>
   <summary>Click to expand 🔻</summary>
 
-- Using del
+🔸 Using del
 
   *Code:*
 ```python
@@ -441,7 +441,7 @@ print(d)
 {1 : 'Hello', '2' : 'Good', 3 : 'Morning'}
 ```
 
-- Using pop()
+🔸 Using pop()
 
 *Code:*
 ```python
@@ -456,7 +456,7 @@ Good
 {1 : 'Hello', 3 : 'Morning'}
 ```
 
-- Using popitem()
+🔸 Using popitem()
 
 *Code:*
 ```python
