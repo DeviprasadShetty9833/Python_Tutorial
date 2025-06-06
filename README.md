@@ -43,51 +43,30 @@ Hello World!
 
 > - Here, print() is a function that displays the string 'Hello World' on the console.
 
-
 *Code:*
 ```python 
-name = "Tanmay"
-print(name)
+name, age1 = "Tanmay", 18
+city,  = "Mumbai", 19
+print(name1, age1)
+print(name2)
+print (age2)
 ```
 
 *Output:*
 ```html
-Tanmay
+Tanmay 18
+Harsh
+19
 ```
+
+> - Here, name1 and age1 is stored as 'Tanmay' & '18' at a time.
+> - 2nd print() automatically inserts '\n' and  displays age as '18' on the next line.
+
+
+
 
 > - Here, name stores the value 'Tanmay'.
 > - print() displays Tanmay using the value of name.
-
-*Code:*
-```python 
-name = "Ritesh"
-age = 18
-print(name, age)
-```
-
-*Output:*
-```html
-Ritesh 18
-```
-
-> - Here, print() displays name & age as 'Dev' & '18' together.
-
-*Code:*
-```python 
-name, age = "Harsh", 18
-print(name)
-print(age)
-```
-
-*Output:*
-```html
-Harsh
-18
-```
-
-> - Here, name and age is stored as 'Dev' & '18' at a time.
-> - 2nd print() automatically inserts '\n' and  displays age as '18' on the next line.
-
 
 </details>
 
