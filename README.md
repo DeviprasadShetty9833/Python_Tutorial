@@ -35,13 +35,9 @@
 ```python 
 print("Hello World!")
 ```
+# Python Tutorial
 
-*Output:*
-```html
-Hello World!
-```
-
-> - Here, print() is a function that displays the string 'Hello World' on the console.
+<br> ![Author: Deviprasad Shetty](https:/function that displays the string 'Hello World' on the console.
 
 *Code:*
 ```python 
@@ -98,8 +94,8 @@ print("City : ", z)
 
 *Output:*
 ```html 
-Enter name, age, city: Dev, 19, Mumbai
-Name : Dev
+Enter name, age, city: Ritesh, 19, Mumbai
+Name: Ritesh
 Age : 19
 City : Mumbai
 ```
