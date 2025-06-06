@@ -716,7 +716,7 @@ print(set2)
 
 *Code:*
 ```python
-set1  = set(" Hello Good Morning")
+set1  = set(["Hello", "Good", "Morning"])
 
 for i in set1:
     print(i, end=" ")
@@ -724,8 +724,10 @@ for i in set1:
 
 *Output:*
 ```html
-
+Morning Hello Good
 ```
+
+> - Output varies
 
 ▶️ Adding items to set
 
