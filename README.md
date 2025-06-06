@@ -684,6 +684,9 @@ False
 
 ▶️ Creating a set
 
+<details>
+  <summary>Click to expand 🔻</summary>
+
 *Code:*
 ```python
 set1  = set(" Hello Good Morning")
@@ -712,7 +715,12 @@ print(set2)
 
 > - Output varies as Sets display Unordered elements with No Duplicates.
 
+</details> 
+
 ▶️ Accessing a Set 
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 *Code:*
 ```python
@@ -726,6 +734,8 @@ for i in set1:
 ```html
 Morning Hello Good
 ```
+
+</details> 
 
 > - Output varies
 
@@ -764,7 +774,7 @@ print(set2)
 > - Here, update() is used to add multiple items.
 > - Only 6 is added, bcoz 5 is already present and Set doesn't allow Duplicates.
 
-
+</details> 
 
 
 5. Sequence
