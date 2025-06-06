@@ -423,6 +423,22 @@ print(d)
 {1 : 'Hello', '2' : 'Good', 3 : 'Morning', 4 : 'Deva'}
 ```
 
+🔸 Updating 
+
+*Code:*
+```python
+d = {1 : 'Hello', '2' : 'Good', 3 : 'Morning', 4 : 'Deva'}
+d[3] = "Evening"   # Updating an existing value
+print(d)
+```
+
+*Output:*
+```html
+{1 : 'Hello', '2' : 'Good', 3 : 'Evening', 4 : 'Deva'}
+```
+
+</details> 
+
 
 ▶️ Deleting Dictionary items
 
