@@ -334,13 +334,13 @@ print(d4)
 
 *Code:*
 ```python
-d5 = {'name' : 'Deva', 'age' : 19}
+d5 = {'name' : 'Harsh', 'age' : 19}
 print(d5)
 ```
 
 *Output:*
 ```html
-{'name' : 'Deva', 'age' : 19}
+{'name' : 'Harsh', 'age' : 19}
 ```
 
 🔸 Storing different keys
