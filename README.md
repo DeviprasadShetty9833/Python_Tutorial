@@ -404,6 +404,26 @@ Python
 
 </details> 
 
+▶️ Adding & Updating Dictionary items
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+🔸 Adding 
+
+*Code:*
+```python
+d = {1 : 'Hello', '2' : 'Good', 3 : 'Morning'}
+d[4] = "Deva"   # New Key-Value pair
+print(d)
+```
+
+*Output:*
+```html
+{1 : 'Hello', '2' : 'Good', 3 : 'Morning', 4 : 'Deva'}
+```
+
+
 ▶️ Deleting Dictionary items
 
 <details>
@@ -411,7 +431,7 @@ Python
 
 🔸 Using del
 
-  *Code:*
+*Code:*
 ```python
 d = {1 : 'Hello', '2' : 'Good', 3 : 'Morning', 4 : 'Deva'}
 del d[4]   # Deletes only Keys(LHS).
