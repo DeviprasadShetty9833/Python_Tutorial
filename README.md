@@ -296,7 +296,7 @@ print(d2)
 
 *Output:*
 ```html
-{'a' : 'Hello', 'b' : 'Good', 'c' : 'Morning'}
+{'a' : "Hello", 'b' : "Good", 'c' : 'Morning'}
 ```
 
 🔸 Using dict() & zip()
@@ -353,7 +353,7 @@ print(d6)
 
 *Output:*
 ```html
-{'name' : 'Deva', 2025 : 'year'}
+{"name" : 'Deva', 2025 : "year"}
 ```
 
 </details> 
