@@ -45,28 +45,24 @@ Hello World!
 
 *Code:*
 ```python 
-name, age1 = "Tanmay", 18
-city,  = "Mumbai", 19
-print(name1, age1)
-print(name2)
-print (age2)
+name = "Tanmay"
+age = 18
+branch, div = "IT", "D"
+print(name, age)
+print(branch)
+print (div)
 ```
 
 *Output:*
 ```html
 Tanmay 18
-Harsh
-19
+IT
+D
 ```
 
-> - Here, name1 and age1 is stored as 'Tanmay' & '18' at a time.
-> - 2nd print() automatically inserts '\n' and  displays age as '18' on the next line.
-
-
-
-
 > - Here, name stores the value 'Tanmay'.
-> - print() displays Tanmay using the value of name.
+> - branch and div is stored as 'IT' & 'D' at a time.
+> - 2nd & 3rd print() automatically inserts '\n' and  displays 'IT' & 'D' on the next line.
 
 </details>
 
