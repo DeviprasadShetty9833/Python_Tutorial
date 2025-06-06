@@ -268,7 +268,7 @@ print(type(z))
 <br> ⊡⁠ No duplicate keys allowed.
 <br> ⊡⁠ Maintains insertion order (Python 3.7+).
 <br> ⊡⁠ No indexing, access via keys.
-<br> ⊡⁠ Syntax: { "key": "value" }
+<br> ⊡⁠ Syntax: { "key" : "value" }
 
 ▶️ Creating a Dictionary 
 
