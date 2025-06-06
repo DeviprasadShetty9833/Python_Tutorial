@@ -35,9 +35,13 @@
 ```python 
 print("Hello World!")
 ```
-# Python Tutorial
 
-<br> ![Author: Deviprasad Shetty](https:/function that displays the string 'Hello World' on the console.
+*Output:*
+```html
+Hello World!
+```
+
+> - Here, print() displays the string 'Hello World!' on the console.
 
 *Code:*
 ```python 
