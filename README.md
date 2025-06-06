@@ -718,13 +718,13 @@ False
 
 <br> ![4.](https://img.shields.io/badge/_4._-Set-34A853?style=for-the-badge&logo=python&logoColor=white)
 
-▶️ Creating a set
-
 <br> ⊡⁠ Stores unordered unique elements.
 <br> ⊡⁠ Mutable (can add/remove items).
 <br> ⊡⁠ No duplicates allowed.
 <br> ⊡⁠ Unordered, so no indexing.
 <br> ⊡⁠ Syntax: { item1, item2, item3 }
+
+▶️ Creating a set
 
 <details>
   <summary>Click to expand 🔻</summary>
