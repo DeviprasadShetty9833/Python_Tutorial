@@ -731,6 +731,40 @@ Morning Hello Good
 
 ▶️ Adding items to set
 
+🔸 Using add()
+
+*Code:*
+```python
+set1 = {1,2,3,4}
+set1.add(5)
+print(set1)
+```
+
+*Output:*
+```html
+{1, 2, 3, 4, 5,}
+```
+
+> - Here, add() is used to add only a single item.
+
+🔸 Using update()
+
+*Code:*
+```python
+set2 = {1,2,3,4}
+set2.update([5,6])
+print(set2)
+```
+
+*Output:*
+```html
+{1, 2, 3, 4, 5, 6}
+```
+
+> - Here, update() is used to add multiple items.
+> - Only 6 is added, bcoz 5 is already present and Set doesn't allow Duplicates.
+
+
 
 
 5. Sequence
