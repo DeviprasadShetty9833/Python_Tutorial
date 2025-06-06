@@ -684,18 +684,11 @@ False
 
 ▶️ Creating a set
 
-<br> ⊡⁠ Stores key-value pairs.
-<br> ⊡⁠ Mutable (can be changed).
-<br> ⊡⁠ No duplicate keys allowed.
-<br> ⊡⁠ Maintains insertion order (Python 3.7+).
-<br> ⊡⁠ No indexing, access via keys.
-<br> ⊡⁠ Syntax: { "key": "value" }
-
 <br> ⊡⁠ Stores unordered unique elements.
 <br> ⊡⁠ Mutable (can add/remove items).
 <br> ⊡⁠ No duplicates allowed.
 <br> ⊡⁠ Unordered, so no indexing.
-<br> ⊡⁠ Syntax: {1, 2, 3}
+<br> ⊡⁠ Syntax: { item1, item2, item3 }
 
 <details>
   <summary>Click to expand 🔻</summary>
