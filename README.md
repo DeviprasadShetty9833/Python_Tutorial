@@ -347,13 +347,13 @@ print(d5)
 
 *Code:*
 ```python
-d6 = {"name" : 'Deva', 15 : "age"}
+d6 = {"name" : 'Deva', 2025 : "year"}
 print(d6)
 ```
 
 *Output:*
 ```html
-{'name' : 'Deva', 15 : 'age'}
+{'name' : 'Deva', 2025 : 'year'}
 ```
 
 </details> 
@@ -546,13 +546,13 @@ Key, Value : Morning, 3
 
 *Code:*
 ```python
-d = {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
+d = {1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Harry', 'B' : 'Potter', 'C' : 'And The', 'D' : "Philosopher's", 'E' : 'Stone'}}
 print(d)
 ```
 
 *Output:*
 ```html
-{1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Alice', 'B' : 'In', 'C' : 'Wonderland'}}
+{1 : 'Welcome', 2 : 'To', 3 : {'A' : 'Harry', 'B' : 'Potter', 'C' : 'And The', 'D' : "Philosopher's", 'E' : 'Stone'}}
 ```
 
 </details> 
