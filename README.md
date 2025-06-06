@@ -821,6 +821,92 @@ print(set2)
 
 </details> 
 
+▶️ Removing items from a set
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+🔸 Using remove()
+
+*Code:*
+```python
+set1 = {1, 2, 3, 4, 5}
+set1.remove(3)
+print(set1)
+
+set1.remove(7)
+print(set1)
+```
+
+*Output:*
+```html
+{1, 2, 4, 5}
+Traceback (most recent call last):
+  File "/home/main.py", line 5, in <module>
+    set1.remove(7)
+    ~~~~~~~~~~~^^^
+KeyError: 7
+```
+
+> - Here, remove() is used to remove only a single item.
+> - It raises an error when an element is removed that does not exist.
+
+🔸 Using discard()
+
+*Code:*
+```python
+set1 = {1, 2, 3, 4, 5}
+set1.discard(3)
+print(set1)
+
+set1.discard(7)
+print(set1)    # No Errors raised
+```
+
+*Output:*
+```html
+{1, 2, 4, 5}
+{1, 2, 4, 5}
+```
+
+> - Here, discard() is used to discard only a single item.
+> - It doesn't raise an error when an element is discarded that does not exist.
+
+🔸 Using pop()
+
+*Code:*
+```python
+set1 = {1, 2, 3, 4, 5}
+val = set1.pop()
+print(val)
+print(set1)
+```
+
+*Output:*
+```html
+{2, 3, 4, 5}
+```
+
+> - Here, pop() is used to pop & return any random item.
+
+🔸 Using clear()
+
+*Code:*
+```python
+set1 = {1, 2, 3, 4, 5}
+set1.clear()
+print(set1)
+```
+
+*Output:*
+```html
+set()
+```
+
+> - Here, pop() is used to pop all items from a set.
+
+</details> 
+
 
 5. Sequence
  - String
