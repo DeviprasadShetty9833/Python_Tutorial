@@ -758,7 +758,7 @@ Morning Hello Good
 <table>
 <tr><td>
 
-▶️ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
+⊡⁠ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
 
 **(A) `re.search()`**
 - Checks if a pattern exists in a string.
