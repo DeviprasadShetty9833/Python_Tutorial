@@ -735,11 +735,14 @@ for i in set1:
 Morning Hello Good
 ```
 
-</details> 
-
 > - Output varies
 
+</details> 
+
 ▶️ Adding items to set
+
+<details>
+  <summary>Click to expand 🔻</summary>
 
 🔸 Using add()
 
