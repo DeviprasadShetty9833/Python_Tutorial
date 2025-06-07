@@ -728,7 +728,7 @@ False
 *Code:*
 ```python
 string1  = "Hello Good Morning"
-print(set1)
+print(string1)
 
 string2  = "How are you?"
 print(string2))
