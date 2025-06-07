@@ -910,7 +910,9 @@ set()
 <br> ![5.](https://img.shields.io/badge/_5._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 🔵 String
+
 🔵 List
+
 🔵 Tuple
 
 
