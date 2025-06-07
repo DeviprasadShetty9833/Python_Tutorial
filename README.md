@@ -930,7 +930,7 @@ print(frozenset(d))
 frozenset({'age', 'name'})
 ```
 
-<\details>
+</details>
 
 ▶️ Converting a List to Frozenset
 
@@ -948,7 +948,7 @@ print(frozenset(l))
 frozenset({'Good', 'Hello', 'Morning'})
 ```
 
-<\details>
+</details>
 
 ▶️ Converting a Tuple to Frozenset
 
@@ -965,7 +965,7 @@ print(frozenset(t))
 ```html
 frozenset()
 ```
-<\details>
+</details>
 
 <br> ![5.](https://img.shields.io/badge/_5._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
 
