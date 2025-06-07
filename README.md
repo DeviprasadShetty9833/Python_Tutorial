@@ -907,6 +907,7 @@ set()
 
 </details> 
 
+
 🔵 Frozenset
 
 <br> ⊡⁠ Same as a set(), but frozenset() are Immutable i.e its elements cannot be modified.
