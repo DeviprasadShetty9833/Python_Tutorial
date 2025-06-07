@@ -716,7 +716,17 @@ False
 
 </details> 
 
-<br> ![4.](https://img.shields.io/badge/_4._-Set-34A853?style=for-the-badge&logo=python&logoColor=white)
+<br> ![4.](https://img.shields.io/badge/_4._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
+
+🔵 String
+
+🔵 List
+
+🔵 Tuple
+
+
+
+<br> ![5.](https://img.shields.io/badge/_5._-Set-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 <br> ⊡⁠ Stores unordered unique elements.
 <br> ⊡⁠ Mutable (can add/remove items).
@@ -1048,15 +1058,6 @@ frozenset({1, 2, 5, 6})
 ```
 
 </details>
-
-<br> ![5.](https://img.shields.io/badge/_5._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
-
-🔵 String
-
-🔵 List
-
-🔵 Tuple
-
 
 </td></tr>
 </table>
