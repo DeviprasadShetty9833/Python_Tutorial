@@ -720,6 +720,29 @@ False
 
 🔵 String
 
+▶️ Creating a string 
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python
+string1  = "Hello Good Morning"
+print(set1)
+
+string2  = "How are you?"
+print(string2))
+
+print(type(string1))
+```
+
+*Output:*
+```html
+{'n', 'r', ' ', 'o', 'g', 'i', 'l', 'd', 'G', 'M', 'H', 'e'}
+<class 'set'>
+```
+
+
 🔵 List
 
 🔵 Tuple
