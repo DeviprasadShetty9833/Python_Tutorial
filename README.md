@@ -98,7 +98,7 @@ print("City : ", z)
 
 *Output:*
 ```html 
-Enter name, age, city: Ritesh, 19, Mumbai
+Enter name, age, city: Ritesh 19 Mumbai
 Name: Ritesh
 Age : 19
 City : Mumbai
@@ -186,6 +186,12 @@ if 10 > 5:
 
 print("I have no indentation.")
 ```
+
+*Output:*
+```html
+I have indentation.
+```
+
 > - The 1st print statement is indented by 4 spaces, so they belong to the if block.
 > - The 2nd print statement is not indented, so it is outside the if block.
 
