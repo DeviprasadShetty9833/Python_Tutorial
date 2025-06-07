@@ -972,6 +972,8 @@ frozenset()
 <details>
   <summary>Click to expand 🔻</summary>
 
+🔸 Copy
+
 *Code:*
 ```python
 a = frozenset([1, 2, 3, 4])
@@ -984,6 +986,67 @@ print(c)
 ```html
 frozenset({1, 2, 3, 4})
 ```
+
+🔸 Union
+
+*Code:*
+```python
+a = frozenset([1, 2, 3, 4])
+b = frozenset([3, 4, 5, 6])
+u = a.union(b)
+print(u)
+```
+
+*Output:*
+```html
+frozenset({1, 2, 3, 4, 5, 6})
+```
+
+🔸 Intersection 
+
+*Code:*
+```python
+a = frozenset([1, 2, 3, 4])
+b = frozenset([3, 4, 5, 6])
+i = a.intersection(b)
+print(i)
+```
+
+*Output:*
+```html
+frozenset({3, 4})
+```
+
+🔸 Difference 
+
+*Code:*
+```python
+a = frozenset([1, 2, 3, 4])
+b = frozenset([3, 4, 5, 6])
+d = a.difference(b)
+print(d)
+```
+
+*Output:*
+```html
+frozenset({1, 2})
+```
+
+🔸 Symmetric Difference 
+
+*Code:*
+```python
+a = frozenset([1, 2, 3, 4])
+b = frozenset([3, 4, 5, 6])
+u = a.symmetric_difference(b)
+print(u)
+```
+
+*Output:*
+```html
+frozenset({1, 2, 5, 6})
+```
+
 </details>
 
 <br> ![5.](https://img.shields.io/badge/_5._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
