@@ -742,6 +742,8 @@ print(type(string1))
 <class 'set'>
 ```
 
+</details> 
+
 
 🔵 List
 
