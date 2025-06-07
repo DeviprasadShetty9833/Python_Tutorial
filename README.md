@@ -907,6 +907,65 @@ set()
 
 </details> 
 
+🔵 Frozenset
+
+<br> ⊡⁠ Same as a set(), but frozenset() are Immutable i.e its elements cannot be modified.
+<br> ⊡⁠ It accepts iterable objects as input parameter.
+<br> ⊡⁠ Syntax : frozenset(iterable_obj_name)
+
+▶️ Converting a Dictionary to Frozenset
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python
+d = {"name" : "Devaratha", "age" : 19}
+print(frozenset(d))
+```
+
+*Output:*
+```html
+frozenset({'age', 'name'})
+```
+
+<\details>
+
+▶️ Converting a List to Frozenset
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python
+l = ["Hello", "Good", "Morning"]
+print(frozenset(l))
+```
+
+*Output:*
+```html
+frozenset({'Good', 'Hello', 'Morning'})
+```
+
+<\details>
+
+▶️ Converting a Tuple to Frozenset
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python
+t = ()   # Empty Tuple
+print(frozenset(t))
+```
+
+*Output:*
+```html
+frozenset()
+```
+<\details>
+
 <br> ![5.](https://img.shields.io/badge/_5._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 🔵 String
