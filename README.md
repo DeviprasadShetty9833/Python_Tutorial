@@ -930,6 +930,10 @@ set()
 </td></tr>
 </table>
 
+# Exception Handling 
+
+# File Handling 
+
 # RegEx
 
 <table>
@@ -1020,6 +1024,14 @@ print(items)  # Output: ['apple', 'banana', 'cherry']
 
 </td></tr>
 </table>
+
+# Tkinter
+
+# Numpy
+
+# Pandas
+
+# Matplotlib
 
 
 ---
