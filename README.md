@@ -738,8 +738,9 @@ print(type(string1))
 
 *Output:*
 ```html
-{'n', 'r', ' ', 'o', 'g', 'i', 'l', 'd', 'G', 'M', 'H', 'e'}
-<class 'set'>
+Hello Good Morning
+How are you?
+<class 'str'>
 ```
 
 </details> 
