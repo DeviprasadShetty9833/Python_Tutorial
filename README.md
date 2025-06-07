@@ -967,6 +967,25 @@ frozenset()
 ```
 </details>
 
+▶️ Frozenset / Set Operations 
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python
+a = frozenset([1, 2, 3, 4])
+b = frozenset([3, 4, 5, 6])
+c = a.copy()
+print(c)
+```
+
+*Output:*
+```html
+frozenset({1, 2, 3, 4})
+```
+</details>
+
 <br> ![5.](https://img.shields.io/badge/_5._-Sequence-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 🔵 String
