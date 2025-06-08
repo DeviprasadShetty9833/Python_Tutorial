@@ -749,6 +749,30 @@ How are you?
 <class 'str'>
 ```
 
+🔸 Multi Line Strings
+
+*Code:*
+```python
+s1 = """ Hi guys, 
+I am Learning
+Python String."""
+print(s)
+
+s2 = '''Hello Good Morning,
+I live in Mumbai, India.'''
+print(s)
+```
+
+*Output:*
+```html
+Hi guys, 
+I am Learning
+Python String.
+Hello Good Morning,
+I live in Mumbai, India.
+```
+
+
 </details> 
 
 
