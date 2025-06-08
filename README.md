@@ -726,7 +726,7 @@ False
 
 🔵 String
 
-▶️ Creating a string 
+💛▶️ Creating a string 
 
 <details>
   <summary>Click to expand 🔻</summary>
@@ -1100,7 +1100,7 @@ frozenset({1, 2, 5, 6})
 <table>
 <tr><td>
 
-<br> ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white) 
+<br> 💛 ![1.](https://img.shields.io/badge/_1._-Classes_&_Objects-34A853?style=for-the-badge&logo=python&logoColor=white) 
 
 </td></tr>
 </table>
@@ -1125,7 +1125,7 @@ Examples:
 
 ---
 
-🔵 Exceptions 
+💛🔵 Exceptions 
 <br> ⊡⁠ Exceptions are runtime events that occur during execution and can be anticipated and handled. It can be fixed by using try, except blocks to catch and respond to exceptions gracefully.
 
 Examples:
@@ -1198,7 +1198,7 @@ Execution complete.
 <table>
 <tr><td>
 
-⊡⁠ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
+💛 ⊡⁠ Regular Expressions (RegEx) are a powerful tool for **pattern matching** and **text manipulation** that allows you to search, extract, replace, or validate strings based on specific patterns.
 
 **(A) `re.search()`**
 - Checks if a pattern exists in a string.
