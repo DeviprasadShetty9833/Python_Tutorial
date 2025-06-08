@@ -1107,6 +1107,9 @@ frozenset({1, 2, 5, 6})
 
 # Exception Handling 
 
+<table>
+<tr><td>
+
 <br> ⊡⁠ Exception Handling handles errors that occur during the execution of a program. 
 <br> ⊡⁠ Exception Handling helps in preventing crashes due to errors.
 
@@ -1172,11 +1175,21 @@ except ValueError:
     print("\n Enter a valid number!")
     
 else:
-    print("\n Result is", res)
+    print("\n Result is : ", res)
     
 finally:
     print("\nExecution complete.")
 ```
+
+*Output:*
+```html
+Enter two numbers : 10 5
+ Result is : 2
+Execution complete.
+```
+
+</td></tr>
+</table>
 
 # File Handling 
 
