@@ -30,7 +30,7 @@
 <br> ⊡⁠ Key Features:
 <br> - Easy to learn( No Curly braces, uses Indentation )
 <br> - Interpreted Language ( Code executes line-by-line at runtime, Slow execution).  
-<br> - Python requires fewer lines of code compared to other programming languages.
+- Python requires fewer lines of code compared to other programming languages.
 
 
 <br> ![1.](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
