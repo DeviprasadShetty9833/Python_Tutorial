@@ -26,6 +26,8 @@
 <table>
 <tr><td>
 
+<br> ⊡⁠ Python is a high-level, interpreted, general-purpose programming language.
+
 <br> ![1.](https://img.shields.io/badge/_1._-Print%20a%20string%20using%20print()-34A853?style=for-the-badge&logo=python&logoColor=white)   
 
 <details>
