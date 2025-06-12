@@ -1315,7 +1315,7 @@ print(items)  # Output: ['apple', 'banana', 'cherry']
 
 # Tkinter
 
-# Numpy
+# 💛 Numpy
 
 NumPy (Numerical Python) is the fundamental package for **scientific computing** in Python. It provides support for:
 
