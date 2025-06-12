@@ -28,8 +28,8 @@
 
 <br> ⊡⁠ Python is a high-level, interpreted, general-purpose programming language.
 <br> ⊡⁠ Key Features:
-<br> - Easy to learn( No Curly braces, uses Indentation )
-<br> - Interpreted Language ( Code executes line-by-line at runtime, Slow execution).  
+- Easy to learn( No Curly braces, uses Indentation )
+- Interpreted Language ( Code executes line-by-line at runtime, Slow execution).  
 - Python requires fewer lines of code compared to other programming languages.
 
 
