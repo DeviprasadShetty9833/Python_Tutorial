@@ -1312,6 +1312,127 @@ print(items)  # Output: ['apple', 'banana', 'cherry']
 
 # Numpy
 
+> - Starts at `start`, **increments by `step`**, and stops before reaching `stop`.
+> - **Excludes the `stop` value**.
+
+
+🔸 Creating an array of linspace
+
+*Code:*
+```python
+import numpy as np
+
+arr_linspace = np.linspace(0, 15, 2) # start, stop, step
+print(arr_range)
+```
+
+*Output:*
+```html
+[0 2 4 6 8 10]
+```
+
+> - Divides the interval `[start, stop]` into `num` **equally spaced** values.
+> - **Includes the `stop` value** by default.
+
+</details>
+
+
+▶️ Numpy Array Indexing
+
+<details>
+  <summary>Click to expand 🔻</summary>
+  
+🔸 Using 1d Array
+
+*Code:*
+```python
+import numpy as np
+
+arr1d = np.array([10, 20, 30, 40, 50])
+print("Single element access:", arr1d[3])  
+print("Negative indexing:", arr1d[-4])    # Negative indexing
+```
+
+*Output:*
+```html
+Single element access: 40
+Negative indexing: 20
+```
+
+🔸 Using 2d Array
+
+*Code:*
+```python
+import numpy as np
+
+arr2d = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+print("Multidimensional array access:", arr2d[2, 0])
+```
+
+*Output:*
+```html
+Multidimensional array access: 7
+```
+
+</details>
+
+▶️ Numpy Array Slicing 
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python
+import numpy as np
+
+arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+print(arr)
+print("Range1 : ", arr[1:2])
+print("Range2 : ", arr[0:1])
+print("Range3 : ", arr[1:1])
+print("Column slicing : ", arr[:, 1]) # Column
+print("Row slicing : ", arr[2]) # Row
+
+print("\nInteger array indexing : ", arr[[0, 2]])
+
+print("\nElements greater than 5 : ", arr[arr > 5])
+```
+
+*Output:*
+```html
+[[1 2 3]
+ [4 5 6]
+ [7 8 9]]
+Range1 :  [[4 5 6]]
+Range2 :  [[1 2 3]]
+Range3 :  []
+Column slicing :  [2 5 8]
+Row slicing :  [7 8 9]
+
+Integer array indexing :  [[1 2 3]
+ [7 8 9]]
+
+Elements greater than 5 :  [6 7 8 9]
+```
+
+🔸 Modifying Array Elements
+
+*Code:*
+```python
+import numpy as np 
+
+arr = np.array([1, 2, 3, 4, 5])
+arr[1:3] = 5
+print(arr)
+```
+
+*Output:*
+```python
+[ 1 5 5 4 5]
+```
+
+</details>
+
 # Pandas
 
 # Matplotlib
