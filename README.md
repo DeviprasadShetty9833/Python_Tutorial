@@ -218,7 +218,7 @@ I have indentation.
 | * | Multiplies 2 no.s |
 | ** | Exponential of 2 no.s |
 | / | Quotient - Divides 2 no.s |
-| % | Remainder - Divides 2 no.s |
+| % | Remainder - Divides 2 no.s(Modulo) |
 
 </details> 
 
