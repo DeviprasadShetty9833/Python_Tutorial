@@ -211,9 +211,8 @@ I have indentation.
 
 ▶️ Arithmetic Operators
 
-
-</td></tr>
-</table>
+| Operator | Description |
+|---|---|
 
 </details> 
 
