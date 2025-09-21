@@ -214,6 +214,10 @@ I have indentation.
 | Operator | Description |
 |---|---|
 | + | Adds 2 no.s |
+| - | Subtracts 2 no.s |
+| * | Multiplies 2 no.s |
+| / | Quotient - Divides 2 no.s |
+| % | Remainder - Divides 2 no.s |
 
 </details> 
 
