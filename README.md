@@ -213,6 +213,7 @@ I have indentation.
 
 | Operator | Description |
 |---|---|
+| + | Adds 2 no.s |
 
 </details> 
 
