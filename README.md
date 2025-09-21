@@ -209,15 +209,12 @@ I have indentation.
 <details>
   <summary>Click to expand 🔻</summary>
 
-*Code:*
-```python 
-print("Hello World!")
-```
+▶️ Arithmetic Operators
 
-*Output:*
-```html
 
-```
+</td></tr>
+</table>
+
 </details> 
 
 </td></tr>
