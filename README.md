@@ -204,6 +204,22 @@ I have indentation.
 
 </details> 
 
+<br> ![6.](https://img.shields.io/badge/_6._-Operators-34A853?style=for-the-badge&logo=python&logoColor=white)   
+
+<details>
+  <summary>Click to expand 🔻</summary>
+
+*Code:*
+```python 
+print("Hello World!")
+```
+
+*Output:*
+```html
+
+```
+</details> 
+
 </td></tr>
 </table>
 
